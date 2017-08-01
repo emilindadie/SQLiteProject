@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SQLiteProject</string>
+    <string name="ajouter_contact">Ajouter contact</string>
+    <string name="supprimer_contacts">Supprimer les contacts</string>
+    <string name="identite">Identité</string>
+    <string name="prenom">Prenom</string>
+    <string name="nom">Nom</string>
+    <string name="genre">Genre</string>
+    <string name="male">Male</string>
+    <string name="age">Age</string>
+    <string name="quatorze">14</string>
+    <string name="nouveau_contact">Nouveau contact</string>
+    <string name="delete">Supprimer</string>
+    <string name="save">Sauvegarder</string>
+    <string name="home">Maison</string>
+    <string name="unknown">Unconnu</string>
+</resources>
